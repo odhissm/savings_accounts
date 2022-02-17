@@ -45,13 +45,6 @@ Before running the application first install the following dependencies.
 1) Compile the file
 2) then deploy the file 
 
-with the:
-
-```jupyter
-from command line type
-
-streamlit run fintech_finder.py
-```
 
 ---
 
